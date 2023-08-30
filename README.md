@@ -1,4 +1,5 @@
 # Housing Locations UI using Angular 
+**Housing Locations Platform for helping people who are seeking suitable, affordable housing in the US to find more information about houses**
 
 ## Home Page
   ![Screenshot 2023-08-16 004514](https://github.com/ahmedrafat-SW/housing-locations-angular/assets/129176607/e51ea873-fed0-40c3-a30b-320246e457bc)
